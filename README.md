@@ -17,10 +17,10 @@ cd TR3_535707
 
 Em seguida você vai compilar o código q está dentro da pasta:
 
-gcc TR3_535707.c -o <Nome para o arquivo compilado>
+gcc TR3_535707.c -o TR3
 
 #Como executar:
 
 Para executar você vai usar:
-./<Nome para o arquivo compilado>
+./TR3
 
