@@ -5,7 +5,7 @@ Trabalho 3
 
 Você vai clonar esse repositório usando:
 
-git clone https://github.com/Gabriel4443/TR3_535707.git
+git clone https://github.com/Gabriel4443/TR10_535707.git
 
 Fazendo isso ira ser criada uma pasta com o nome desse repositório"TR3_535707"
 
